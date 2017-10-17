@@ -3,4 +3,25 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+
+    <!--顶部圆角selector-->
+    <color name="shape_top_circle_bg_click">#E6E6E6</color>
+    <color name="shape_top_circle_bg_unclick">@color/base_white</color>
+
+    <!--底部圆角selector-->
+    <color name="shape_bottom_circle_bg_click">#E6E6E6</color>
+    <color name="shape_bottom_circle_bg_unclick">@color/base_white</color>
+
+    <!--左边底部圆角selector-->
+    <color name="shape_bottomlfet_circle_bg_click">#E6E6E6</color>
+    <color name="shape_bottomlfet_circle_bg_unclick">@color/base_white</color>
+
+
+    <!--右边底部圆角selector-->
+    <color name="shape_bottomright_circle_bg_click">#E6E6E6</color>
+    <color name="shape_bottomright_circle_bg_unclick">@color/base_white</color>
+
+
+
 </resources>

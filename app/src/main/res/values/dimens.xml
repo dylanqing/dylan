@@ -1,0 +1,12 @@
+<resources>
+
+
+    <dimen name="shape_bottom_circle">@dimen/dim10</dimen>
+
+    <dimen name="shape_top_circle">@dimen/dim10</dimen>
+
+    <dimen name="shape_bottomleft_circle">@dimen/dim10</dimen>
+
+    <dimen name="shape_bottomright_circle">@dimen/dim10</dimen>
+
+</resources>

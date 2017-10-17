@@ -4,4 +4,10 @@
     <style name="AppTheme" parent="@android:style/Theme.Light.NoTitleBar">
     </style>
 
+
+    <style name="black_34txt" parent="base_txt34px">
+
+    </style>
+
+
 </resources>
